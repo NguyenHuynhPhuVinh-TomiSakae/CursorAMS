@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    {
+      "id": "1735487704546",
+      "name": "tomisakaeap1@gmail.com",
+      "isUsed": true,
+      "lastUsedDate": "2024-12-29T16:01:18.869Z",
+      "createdDate": "2024-11-02T15:55:04.546Z",
+      "isOldAccount": true
+    },
+    {
+      "id": "1735487965687",
+      "name": "tomisakaeap2@gmail.com",
+      "isUsed": false,
+      "lastUsedDate": null,
+      "createdDate": "2024-12-29T15:59:25.687Z",
+      "isOldAccount": false
+    }
+  ]
+}
